@@ -39,7 +39,7 @@ Simular um sistema simples de compra de ingressos online, com controle de estoqu
 
 <div align="center">
    <a href="https://github.com/Kelven-Colombo">
-    <img src="assets/PNG/Logo e-tricket.png" alt="Kelven Colombo" width="150">
+    <img src="https://github.com/Kelven-Colombo.png" alt="Kelven Colombo" width="150">
   </a>
   <br><br>
   <a href="https://github.com/Kelven-Colombo">
